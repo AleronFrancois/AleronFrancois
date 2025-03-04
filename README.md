@@ -14,6 +14,7 @@ Currently studying the **Bachelor of ICT** with a major in **Cybersecurity and N
 I'm actively learning and working on projects related to **pen testing**, **secure web development**, and **network security**. I enjoy exploring ethical hacking techniques and enhancing my coding skills through real-world applications.
 
 ## 📞 Contact
-- **LinkedIn:** https://www.linkedin.com/in/aleron-francois
-- **Facebook:** https://www.facebook.com/DefinitelyNotAleron
-- **itch.io:** https://aleronf.itch.io
+- **LinkedIn:** [Aleron Francois](https://www.linkedin.com/in/aleron-francois-aa9255351/)
+- **Facebook:** [DefinitelyNotAleron](https://www.facebook.com/DefinitelyNotAleron)
+- **itch.io:** [AleronF](https://aleronf.itch.io)
+
