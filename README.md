@@ -10,10 +10,10 @@ Currently studying the **Bachelor of ICT** with a major in **Cybersecurity and N
 - **Secure Network configuration**
 - **Strong Problem-Solving & Analytical Thinking**  
 
-## Current Focus  
+## 🎯 Current Focus  
 I'm actively learning and working on projects related to **pen testing**, **secure web development**, and **network security**. I enjoy exploring ethical hacking techniques and enhancing my coding skills through real-world applications.
 
-## Contact
+## 📞 Contact
 - **LinkedIn:** https://www.linkedin.com/in/aleron-francois
 - **Facebook:** https://www.facebook.com/DefinitelyNotAleron
 - **itch.io:** https://aleronf.itch.io
