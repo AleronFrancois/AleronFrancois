@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aleron Francois
 
-<!--
-**AleronFrancois/AleronFrancois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me  
+I'm a passionate ICT student currently pursuing a **Bachelor of ICT** with a major in **Cybersecurity and Networking** at the University of Tasmania. I previously graduated the **Diploma of ICT** and have a strong interest in **cybersecurity**, **networking**, and **3D graphics programming**.
 
-Here are some ideas to get you started:
+## 🛠 Skills & Technologies  
+- **Programming Languages:** C#, Python, Java  
+- **Cybersecurity & Networking Enthusiast**  
+- **Web Development & Databases**
+- **Network configuration and security**
+- **Strong Problem-Solving & Analytical Thinking**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus  
+I'm actively learning and working on projects related to **pen testing**, **secure web development**, and **network security**. I enjoy exploring ethical hacking techniques and enhancing my coding skills through real-world applications.
+
+## Let's Connect!  
+Feel free to check out my repositories, collaborate on projects, or reach out if you’d like to chat about anything tech-related!
