@@ -10,7 +10,7 @@ Currently studying the **Bachelor of ICT** with a major in **Cybersecurity and N
 - **Secure Network configuration**
 - **Strong Problem-Solving & Analytical Thinking**
 
-[![My Skills](https://skillicons.dev/icons?,redhat,linux,bash,windows,ubuntu,dotnet,vscode,mysql,py,java,unity,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redhat,linux,bash,windows,ubuntu,dotnet,vscode,mysql,py,java,unity,)](https://skillicons.dev)
 
 ## 🎯 Current Focus  
 I'm actively learning and working on projects related to **pen testing**, **secure web development**, and **network security**. I enjoy exploring ethical hacking techniques and enhancing my coding skills through real-world applications.
