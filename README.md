@@ -1,7 +1,7 @@
 # Aleron Francois
 
 ## 💻 About Me  
-Currently studying the Bachelor of ICT with a major in Cybersecurity and Networking at the University of Tasmania. I previously graduated the Diploma of ICT in which i developed a strong interest in cybersecurity, networking, and 3D graphics programming.
+Currently studying the Bachelor of ICT with a major in Cybersecurity and Networking at the University of Tasmania. I previously graduated the Diploma of ICT in which I developed a strong interest in cybersecurity, networking, and 3D graphics programming.
 
 ## 🛠 Skills & Technologies  
 - **Programming Languages:** Proficient in C#, Python and Java  
